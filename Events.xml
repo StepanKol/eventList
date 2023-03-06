@@ -12,9 +12,9 @@
 		</Category>
 		<Price>1000₽</Price>
 	</Event>
-	<Event name="Масленица">
-		<Header>Масленица</Header>
-		<Description>Масленица — восточнославянский традиционный праздник, отмечаемый в течение недели перед Великим постом, сохранивший в своей обрядовой основе ряд элементов дохристианской славянской мифологии.</Description>
+	<Event name="История религий">
+		<Header>История религий</Header>
+		<Description>Курс поможет научиться ориентироваться в базовых принципах каждого из перечисленных вероучений и лучше понять ценности, мировоззрение и образ жизни верующих людей.</Description>
 		<Image>Assets/events/maslenica.png</Image>
 		<Date>08.02.2023</Date>
 		<Category>
@@ -37,7 +37,7 @@
 		<Price>649₽</Price>
 	</Event>
 	<Event name="Сказка про умку">
-		<Header>Космодрайв</Header>
+		<Header>Умка</Header>
 		<Description>Из нашего детства белый медвежонок Умка — одно из самых ярких воспоминаний. Он добрый, наивный и конечно любознательный, как все дети. У него есть мудрая и справедливая мама, он находит себе друга — мальчика. И, безусловно, в белых льдах Арктики с ним происходят какие-то приключения.</Description>
 		<Image>Assets/events/umka.png</Image>
 		<Date>07.02.2023</Date>
@@ -49,7 +49,7 @@
 	</Event>
 	<Event name="Диско 90-х">
 		<Header>Диско 90-х</Header>
-		<Description>Супер фестиваль популярной музыки «Диско 90-х» представляет лучшее из золотой коллекции хитов 90-х и 2000-х годов. Одно из главных музыкальных событий собирающее аншлаги стартовал в 2017 году и продолжает своё шествие по стране.</Description>
+		<Description>Супер фестиваль популярной музыки «Диско 90-х» представляет лучшее из золотой коллекции хитов 90-х и 2000-х годов. Пройдет в Новосибирске 11 марта в 19:00 на Локомотив-Арене</Description>
 		<Image>Assets/events/disco.png</Image>
 		<Date>07.02.2023</Date>
 		<Category>
@@ -79,8 +79,8 @@
 		<Price>569₽</Price>
 	</Event>
 	<Event name="Профессиональный мастер-класс по Heartstone">
-		<Header>Профессиональный мастер-класс по Heartstone</Header>
-		<Description>Ата</Description>
+		<Header>ESL Pro League</Header>
+		<Description>Турнир по игре CS:GO, в котором соревнуются профессиональные игроки за приличный призовой фонд. Проводится в данный момент</Description>
 		<Image>Assets/events/hearthstone.png</Image>
 		<Date>31.02.2023</Date>
 		<Category>
@@ -92,9 +92,9 @@
 		</Category>
 		<Price>0,1₽</Price>
 	</Event>
-	<Event name="Йога тренинг">
-		<Header>Йога тренин</Header>
-		<Description>Тренировки, правильное питание, реалибитация.</Description>
+	<Event name="Йога">
+		<Header>Йоган</Header>
+		<Description>Тренировки, здоровое питание, рацион и реалибитация.</Description>
 		<Image>Assets/events/yoga.png</Image>
 		<Date>02.03.2023</Date>
 		<Category>
