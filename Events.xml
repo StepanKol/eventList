@@ -15,7 +15,7 @@
 	<Event name="История религий">
 		<Header>История религий</Header>
 		<Description>Курс поможет научиться ориентироваться в базовых принципах каждого из перечисленных вероучений и лучше понять ценности, мировоззрение и образ жизни верующих людей.</Description>
-		<Image>Assets/events/maslenica.png</Image>
+		<Image>Assets/events/history.png</Image>
 		<Date>08.02.2023</Date>
 		<Category>
 			<CategoryItem>Культура</CategoryItem>
@@ -81,7 +81,7 @@
 	<Event name="Профессиональный мастер-класс по Heartstone">
 		<Header>ESL Pro League</Header>
 		<Description>Турнир по игре CS:GO, в котором соревнуются профессиональные игроки за приличный призовой фонд. Проводится в данный момент</Description>
-		<Image>Assets/events/hearthstone.png</Image>
+		<Image>Assets/events/csgo.png</Image>
 		<Date>31.02.2023</Date>
 		<Category>
 			<CategoryItem>Спорт</CategoryItem>
@@ -93,7 +93,7 @@
 		<Price>0,1₽</Price>
 	</Event>
 	<Event name="Йога">
-		<Header>Йоган</Header>
+		<Header>Йога</Header>
 		<Description>Тренировки, здоровое питание, рацион и реалибитация.</Description>
 		<Image>Assets/events/yoga.png</Image>
 		<Date>02.03.2023</Date>
